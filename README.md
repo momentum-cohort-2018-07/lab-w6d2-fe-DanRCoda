@@ -15,3 +15,14 @@ Before you build out any code, take time to plan your calculator. You should thi
 ## TODO: calculator plan
 
 **Write your components with their props and state here.**
+
+I will need:
+
+Calculator Body
+
+
+Calculator buttons
+
+Calculator display
+
+Calculator history
